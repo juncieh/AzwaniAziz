@@ -1,0 +1,10 @@
+John 040222011234 01-01-1990 999 john@gmail.com Manager US 123
+Jane 050112014566 15-05-1990 0127474286 jane@gmail.com Assistant UK 55123
+Michael 090122013444 07-08-2004 0172367778 michael@gmail.com Staff US 00123
+Tanz 050111106767 09-05-2003 0197857463 tanz@gmail.com Assistant UK 4556
+Choy 051101014566 07-05-2004 0172859470 choy@gmail.com Manager Malaysia 9899
+Phang 901122017676 11-11-1990 0127473275 phang@gmail.com Assistant Singapore 7788
+Wong 911223019876 11-12-1996 0147473279 wong@gmail.com Staff Singapore 8998766
+AhMei 941130012345 08-05-2003 0145768584 ahmei@gmail.com Assistant UK 985543
+QiQi 960202017543 02-02-2002 0142886865 qiqi@gmail.com Staff Malaysia 097655
+Jackson 040325050804 15-01-1997 01245689778 jackson@gmail.com Manager US 123456
